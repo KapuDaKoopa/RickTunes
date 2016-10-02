@@ -1,5 +1,5 @@
 # RickTunes for Android
-### [Download](https://github.com/MCMiners9/RickTunes/releases) | [Issues](https://github.com/MCMiners9/RickTunes/issues) | [Pull Requests](https://github.com/MCMiners9/RickTunes/pulls) | [Projects](https://github.com/MCMiners9/RickTunes/projects) | [Wiki](https://github.com/MCMiners9/RickTunes/wiki)
+### [Download Link 1](https://github.com/MCMiners9/RickTunes/releases) | [Download Link 2 (in case first one fails)](https://mega.nz/#F!A0dhBAJS!yPLngIm8-0MKjO82lUy4Sw) | [Issues](https://github.com/MCMiners9/RickTunes/issues) | [Pull Requests](https://github.com/MCMiners9/RickTunes/pulls) | [Projects](https://github.com/MCMiners9/RickTunes/projects) | [Wiki](https://github.com/MCMiners9/RickTunes/wiki)
 ## RickTunes for Android is an app that lets you listen to music (mostly Fetty Wap, more songs in future).
 ## In order to install, you need to enable Unknown Sources in your Android settings.
 ## How do I get it?
