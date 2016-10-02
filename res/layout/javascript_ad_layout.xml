@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="1" android:orientation="1" android:id="0x7f0a00a0" android:background="0x106000d" android:layout_width="-1" android:layout_height="-2">
+    <com.andromo.dev576782.app537736.JavascriptAdWebView android:layout_gravity="31" android:id="0x7f0a00a1" android:layout_width="320dp" android:layout_height="50dp" />
+</LinearLayout>

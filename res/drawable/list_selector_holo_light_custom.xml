@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item android:state_window_focused="false">
+        <shape android:shape="0">
+            <stroke android:width="1px" android:color="#ffffffff" />
+            <solid android:color="0x7f090032" />
+            <corners android:radius="2dp" />
+        </shape>
+    </item>
+    <item android:state_focused="true" android:state_enabled="false" android:state_pressed="true" android:drawable="0x7f0200f2" />
+    <item android:state_focused="true" android:state_enabled="false" android:drawable="0x7f0200f2" />
+    <item android:state_focused="true" android:state_pressed="true" android:drawable="0x7f0200f0" />
+    <item android:state_focused="false" android:state_pressed="true" android:drawable="0x7f0200f0" />
+    <item android:state_focused="true" android:drawable="0x7f0200e9" />
+    <item android:state_selected="true" android:drawable="0x7f0200ee" />
+    <item>
+        <shape android:shape="0">
+            <stroke android:width="1px" android:color="#ffffffff" />
+            <solid android:color="0x7f090032" />
+            <corners android:radius="2dp" />
+        </shape>
+    </item>
+</selector>

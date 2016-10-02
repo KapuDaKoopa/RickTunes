@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activity_000_titles">
+        <item>@string/activity_title_000_01</item>
+        <item>@string/activity_title_000_02</item>
+        <item>@string/activity_title_000_03</item>
+    </string-array>
+    <string-array name="activity_000_subtitles">
+        <item>@string/activity_subtitle_000_01</item>
+        <item>@string/activity_subtitle_000_02</item>
+        <item>@string/activity_subtitle_000_03</item>
+    </string-array>
+    <string-array name="activity_000_classes">
+        <item>@string/activity_class_000_01</item>
+        <item>@string/activity_class_000_02</item>
+        <item>@string/activity_class_000_03</item>
+    </string-array>
+    <array name="activity_000_icons">
+        <item>@drawable/ic_dashboard_000_01</item>
+        <item>@drawable/ic_dashboard_000_02</item>
+        <item>@drawable/ic_dashboard_000_03</item>
+    </array>
+    <string-array name="hidden_activity_classes">
+        <item>${hidden.activities}</item>
+    </string-array>
+    <string-array name="Audio98819_track_titles">
+        <item>Fetty Wap - My Way</item>
+        <item>Fetty Wap - Make You Feel Good</item>
+        <item>Fetty Wap - Wake Up</item>
+        <item>Fetty Wap - Jimmy Choo</item>
+        <item>Fetty Wap - Trap Queen</item>
+        <item>Desiigner - Panda</item>
+    </string-array>
+    <string-array name="Audio98819_track_descriptions">
+        <item>Artist: Fetty Wap</item>
+        <item>Artist: Fetty Wap</item>
+        <item>Artist: Fetty Wap</item>
+        <item>Artist: Fetty Wap</item>
+        <item>Artist: Fetty Wap</item>
+        <item>Artist: Desiigner</item>
+    </string-array>
+    <string-array name="Audio98819_track_files">
+        <item>fetty-wap-my-way.mp3</item>
+        <item>fetty-wap-make-you-feel-good-cdq.mp3</item>
+        <item>099-fetty-wap-wake-up.mp3</item>
+        <item>078-fetty-wap-jimmy-choo.mp3</item>
+        <item>3-fetty-wap-trap-queen.mp3</item>
+        <item>033-desiigner-panda.mp3</item>
+    </string-array>
+    <string-array name="Audio98819_track_types">
+        <item>ASSET</item>
+        <item>ASSET</item>
+        <item>ASSET</item>
+        <item>ASSET</item>
+        <item>ASSET</item>
+        <item>ASSET</item>
+    </string-array>
+    <string-array name="default_play_mode_values">
+        <item>STREAM</item>
+        <item>DOWNLOAD_AND_PLAY</item>
+    </string-array>
+    <string-array name="bytesizes">
+        <item>TB</item>
+        <item>GB</item>
+        <item>MB</item>
+        <item>KB</item>
+        <item>bytes</item>
+    </string-array>
+    <string-array name="default_play_mode">
+        <item>Stream from network</item>
+        <item>Download and play</item>
+    </string-array>
+</resources>

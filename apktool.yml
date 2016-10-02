@@ -1,0 +1,23 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: RickTunes-v-1-dot-1.apk
+compressionType: false
+doNotCompress:
+- arsc
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '10'
+  targetSdkVersion: '22'
+sharedLibrary: false
+unknownFiles:
+  manifest: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.1.1
+versionInfo:
+  versionCode: '2'
+  versionName: '1.1'

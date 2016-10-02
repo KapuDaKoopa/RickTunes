@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-2">
+    <View android:id="0x7f0a00bd" android:background="@c0643b/place_autocomplete_separator" android:visibility="2" android:layout_width="-1" android:layout_height="1dp" android:layout_marginLeft="0x7f0b0007" android:layout_marginStart="0x7f0b0007" />
+    <include android:layout_width="0x7f0b0001" android:layout_height="0x7f0b0001" android:layout_marginLeft="0x7f0b0002" android:layout_marginRight="0x7f0b0002" android:layout_below="0x7f0a00bd" android:layout_centerVertical="true" layout="0x7f030024" />
+    <ImageView android:id="0x7f0a00be" android:layout_width="-2" android:layout_height="0x7f0b0008" android:layout_marginLeft="0x7f0b0009" android:src="@c0644c/powered_by_google_light" android:scaleType="5" android:layout_toRightOf="0x7f0a00bf" android:layout_below="0x7f0a00bd" android:layout_marginStart="0x7f0b0009" android:layout_toEndOf="0x7f0a00bf" />
+</RelativeLayout>

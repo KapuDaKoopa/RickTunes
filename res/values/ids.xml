@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="cast_notification_id" />
+    <item type="id" name="abs__home" />
+    <item type="id" name="abs__up" />
+    <item type="id" name="abs__action_menu_divider" />
+    <item type="id" name="abs__action_menu_presenter" />
+    <item type="id" name="abs__progress_circular" />
+    <item type="id" name="abs__progress_horizontal" />
+    <item type="id" name="item_refresh" />
+    <item type="id" name="item_share" />
+    <item type="id" name="ad_stub" />
+    <item type="id" name="dashboard_thumbnail" />
+    <item type="id" name="dashboard_title" />
+    <item type="id" name="dashboard_subtitle" />
+    <item type="id" name="dashboard_selector" />
+    <item type="id" name="play" />
+    <item type="id" name="stop" />
+    <item type="id" name="pause" />
+    <item type="id" name="prev" />
+    <item type="id" name="next" />
+    <item type="id" name="indicator_shuffle" />
+    <item type="id" name="indicator_shuffle_box" />
+    <item type="id" name="indicator_repeat" />
+    <item type="id" name="indicator_repeat_box" />
+    <item type="id" name="seekbar" />
+    <item type="id" name="time_current" />
+    <item type="id" name="time_total" />
+    <item type="id" name="track_title" />
+    <item type="id" name="status_text" />
+    <item type="id" name="preferences" />
+    <item type="id" name="contentLayout">false</item>
+    <item type="id" name="imageLayout">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="name">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="description">false</item>
+    <item type="id" name="buttonLayout">false</item>
+    <item type="id" name="aboutUsFacebook">false</item>
+    <item type="id" name="aboutUsTwitter">false</item>
+    <item type="id" name="aboutUsLinkedIn">false</item>
+    <item type="id" name="aboutUsGooglePlus">false</item>
+    <item type="id" name="aboutUsWebsite">false</item>
+    <item type="id" name="app_version">false</item>
+    <item type="id" name="app_developer">false</item>
+    <item type="id" name="about_andromo">false</item>
+    <item type="id" name="custom_text">false</item>
+    <item type="id" name="analytics_notice">false</item>
+    <item type="id" name="about_separator">false</item>
+    <item type="id" name="andromo_banner">false</item>
+    <item type="id" name="andromo_logo">false</item>
+    <item type="id" name="samsung_image">false</item>
+    <item type="id" name="copyright">false</item>
+    <item type="id" name="build_version">false</item>
+    <item type="id" name="abs__action_bar_title">false</item>
+    <item type="id" name="abs__action_bar_subtitle">false</item>
+    <item type="id" name="abs__imageButton">false</item>
+    <item type="id" name="abs__textButton">false</item>
+    <item type="id" name="abs__action_mode_close_button">false</item>
+    <item type="id" name="abs__activity_chooser_view_content">false</item>
+    <item type="id" name="abs__expand_activities_button">false</item>
+    <item type="id" name="abs__image">false</item>
+    <item type="id" name="abs__default_activity_button">false</item>
+    <item type="id" name="abs__list_item">false</item>
+    <item type="id" name="abs__icon">false</item>
+    <item type="id" name="abs__title">false</item>
+    <item type="id" name="abs__titleDivider">false</item>
+    <item type="id" name="abs__content">false</item>
+    <item type="id" name="abs__checkbox">false</item>
+    <item type="id" name="abs__shortcut">false</item>
+    <item type="id" name="abs__radio">false</item>
+    <item type="id" name="abs__action_bar_container">false</item>
+    <item type="id" name="abs__action_bar">false</item>
+    <item type="id" name="abs__action_context_bar">false</item>
+    <item type="id" name="abs__split_action_bar">false</item>
+    <item type="id" name="abs__action_mode_bar_stub">false</item>
+    <item type="id" name="abs__action_mode_bar">false</item>
+    <item type="id" name="edit_query">false</item>
+    <item type="id" name="abs__search_bar">false</item>
+    <item type="id" name="abs__search_badge">false</item>
+    <item type="id" name="abs__search_button">false</item>
+    <item type="id" name="abs__search_edit_frame">false</item>
+    <item type="id" name="abs__search_mag_icon">false</item>
+    <item type="id" name="abs__search_plate">false</item>
+    <item type="id" name="abs__search_src_text">false</item>
+    <item type="id" name="abs__search_close_btn">false</item>
+    <item type="id" name="abs__submit_area">false</item>
+    <item type="id" name="abs__search_go_btn">false</item>
+    <item type="id" name="abs__search_voice_btn">false</item>
+    <item type="id" name="adHeader">false</item>
+    <item type="id" name="adView">false</item>
+    <item type="id" name="background_image">false</item>
+    <item type="id" name="background_frosting">false</item>
+    <item type="id" name="music_controls">false</item>
+    <item type="id" name="play_marker">false</item>
+    <item type="id" name="scrollview">false</item>
+    <item type="id" name="title_heading">false</item>
+    <item type="id" name="title_text">false</item>
+    <item type="id" name="artist_heading">false</item>
+    <item type="id" name="artist_line">false</item>
+    <item type="id" name="artist_text">false</item>
+    <item type="id" name="album_heading">false</item>
+    <item type="id" name="album_line">false</item>
+    <item type="id" name="album_text">false</item>
+    <item type="id" name="year_heading">false</item>
+    <item type="id" name="year_line">false</item>
+    <item type="id" name="year_text">false</item>
+    <item type="id" name="shoutcast_heading">false</item>
+    <item type="id" name="shoutcast_line">false</item>
+    <item type="id" name="shoutcast_text">false</item>
+    <item type="id" name="description_heading">false</item>
+    <item type="id" name="description_line">false</item>
+    <item type="id" name="description_text">false</item>
+    <item type="id" name="divider">false</item>
+    <item type="id" name="bottom_divider">false</item>
+    <item type="id" name="place_autocomplete_search_button">false</item>
+    <item type="id" name="place_autocomplete_search_input">false</item>
+    <item type="id" name="place_autocomplete_clear_button">false</item>
+    <item type="id" name="place_autocomplete_separator">false</item>
+    <item type="id" name="place_autocomplete_powered_by_google">false</item>
+    <item type="id" name="place_autocomplete_progress">false</item>
+    <item type="id" name="place_autocomplete_prediction_primary_text">false</item>
+    <item type="id" name="place_autocomplete_prediction_secondary_text">false</item>
+    <item type="id" name="layout_text">false</item>
+    <item type="id" name="static_ad_logo">false</item>
+    <item type="id" name="static_ad_title">false</item>
+    <item type="id" name="static_ad_subtitle">false</item>
+    <item type="id" name="static_ad_url">false</item>
+    <item type="id" name="play_marker_box">false</item>
+    <item type="id" name="status">false</item>
+    <item type="id" name="date">false</item>
+    <item type="id" name="webView1">false</item>
+    <item type="id" name="refresh">false</item>
+    <item type="id" name="share">false</item>
+    <item type="id" name="shuffle_mode">false</item>
+    <item type="id" name="shuffle_mode_on">false</item>
+    <item type="id" name="shuffle_mode_off">false</item>
+    <item type="id" name="repeat_mode">false</item>
+    <item type="id" name="repeat_mode_off">false</item>
+    <item type="id" name="repeat_mode_single">false</item>
+    <item type="id" name="repeat_mode_all">false</item>
+    <item type="id" name="about">false</item>
+    <item type="id" name="download">false</item>
+    <item type="id" name="cancel_download">false</item>
+    <item type="id" name="goto_current_track">false</item>
+    <item type="id" name="rewind">false</item>
+    <item type="id" name="delete">false</item>
+</resources>

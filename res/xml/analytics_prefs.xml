@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <PreferenceCategory android:title="0x7f0800c8" android:key="ANALYTICS_SETTINGS">
+        <CheckBoxPreference android:title="0x7f0800c9" android:key="enable_analytics" android:defaultValue="true" android:summaryOn="0x7f0800ca" android:summaryOff="0x7f0800cb" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item android:icon="0x7f0200d2" android:id="0x7f0a00d5" android:title="0x7f0800b2" android:showAsAction="1" />
+    <item android:icon="0x7f0200cf" android:id="0x7f0a00d6" android:title="0x7f0800b4" android:showAsAction="1" />
+    <item android:icon="0x7f0200d5" android:id="0x7f0a00d7" android:title="0x7f0800b1" android:showAsAction="0" />
+    <item android:icon="0x7f0200db" android:id="0x7f0a00cc" android:title="0x7f080093" android:showAsAction="1" android:actionProviderClass="com.andromo.dev576782.app537736.ShareActionProvider" />
+    <item android:icon="0x7f0200dd" android:id="0x7f0a000f" android:title="0x7f08009e" android:showAsAction="0" />
+    <item android:icon="0x7f0200da" android:id="0x7f0a00d8" android:title="0x7f0800b3" android:showAsAction="0" />
+    <item android:icon="0x7f0200d1" android:id="0x7f0a00d9" android:title="0x7f0800b5" android:showAsAction="1" />
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bytesizes">
+        <item>ТБ</item>
+        <item>ГБ</item>
+        <item>МБ</item>
+        <item>КБ</item>
+        <item>байт</item>
+    </string-array>
+    <string-array name="default_play_mode">
+        <item>Поток из сети</item>
+        <item>Загрузить и воспроизвести</item>
+    </string-array>
+</resources>

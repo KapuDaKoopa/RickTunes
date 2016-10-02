@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <PreferenceCategory android:title="0x7f0800c1" android:key="AIRBOP_NOTIFICATIONS">
+        <CheckBoxPreference android:title="0x7f0800c2" android:key="enable_notifications" android:summary="0x7f0800c3" android:defaultValue="true" />
+        <CheckBoxPreference android:title="0x7f0800c4" android:key="enable_notification_sound" android:summary="0x7f0800c5" android:dependency="enable_notifications" android:defaultValue="true" />
+        <CheckBoxPreference android:title="0x7f0800c6" android:key="enable_notification_light" android:summary="0x7f0800c7" android:dependency="enable_notifications" android:defaultValue="true" />
+    </PreferenceCategory>
+</PreferenceScreen>

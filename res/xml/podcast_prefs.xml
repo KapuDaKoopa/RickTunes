@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <PreferenceCategory android:title="0x7f080135" android:key="PODCAST_SETTINGS">
+        <ListPreference android:persistent="true" android:entries="0x7f0e000b" android:title="0x7f080136" android:key="DEFAULT_PLAY_MODE" android:summary="%1$s" android:defaultValue="STREAM" android:entryValues="0x7f0e0009" />
+    </PreferenceCategory>
+</PreferenceScreen>

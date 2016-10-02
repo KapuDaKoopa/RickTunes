@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <rotate android:drawable="0x7f020100" android:fromDegrees="0.0" android:toDegrees="1080.0" android:pivotX="50%" android:pivotY="50%" />
+    </item>
+    <item>
+        <rotate android:drawable="0x7f0200ff" android:fromDegrees="720.0" android:toDegrees="0.0" android:pivotX="50%" android:pivotY="50%" />
+    </item>
+</layer-list>

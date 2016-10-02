@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:"http://schemas.android.com/apk/res/android" android:versionCode="2" android:versionName="1.1" android:installLocation="auto" package="com.andromo.dev576782.app537736" platformBuildVersionCode="22" platformBuildVersionName="5.1.1-1819727">
+    <uses-sdk android:minSdkVersion="10" android:targetSdkVersion="22" />
+    <application android:label="0x7f08002c" android:icon="0x7f0200c7" android:name="AndromoAcraApplication" android:hardwareAccelerated="true">
+        <activity android:theme="0x7f070061" android:label="0x7f08002c" android:name=".Website344366" android:screenOrientation="unspecified" android:parentActivityName="com.andromo.dev576782.app537736.Dashboard_000">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.andromo.dev576782.app537736.Dashboard_000" />
+        </activity>
+        <activity android:theme="0x7f070061" android:label="0x7f08002c" android:name=".Audio98819" android:screenOrientation="unspecified" android:parentActivityName="com.andromo.dev576782.app537736.Dashboard_000">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.andromo.dev576782.app537736.Dashboard_000" />
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <service android:name=".AudioService" android:exported="false">
+            <intent-filter>
+                <action android:name="com.andromo.dev576782.app537736.audio.action.START" />
+                <action android:name="com.andromo.dev576782.app537736.audio.action.PLAY" />
+                <action android:name="com.andromo.dev576782.app537736.audio.action.PAUSE" />
+                <action android:name="com.andromo.dev576782.app537736.audio.action.SKIP" />
+                <action android:name="com.andromo.dev576782.app537736.audio.action.REWIND" />
+                <action android:name="com.andromo.dev576782.app537736.audio.action.STOP" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.andromo.dev576782.app537736.audio.action.URL" />
+                <data android:scheme="http" />
+            </intent-filter>
+        </service>
+        <receiver android:name=".AudioIntentReceiver">
+            <intent-filter>
+                <action android:name="android.media.AUDIO_BECOMING_NOISY" />
+            </intent-filter>
+        </receiver>
+        <service android:name=".Audio98819_PlaylistManager" android:exported="false" />
+        <service android:name=".SetRingtoneService" android:exported="false" />
+        <activity android:theme="0x7f070061" android:label="0x7f08002c" android:name=".About50148" android:screenOrientation="unspecified" android:parentActivityName="com.andromo.dev576782.app537736.Dashboard_000">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.andromo.dev576782.app537736.Dashboard_000" />
+        </activity>
+        <activity android:theme="0x7f070083" android:label="0x7f08002c" android:name=".Dashboard_000" android:screenOrientation="unspecified" />
+        <receiver android:name="com.google.android.gcm.GCMBroadcastReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+                <category android:name="com.andromo.dev576782.app537736" />
+            </intent-filter>
+        </receiver>
+        <service android:name=".GCMIntentService" />
+        <service android:name=".AirBopIntentService" />
+        <activity android:theme="0x7f070061" android:name=".AndromoPreferencesActivity" />
+    </application>
+    <supports-screens android:smallScreens="true" android:normalScreens="true" android:largeScreens="true" android:xlargeScreens="true" />
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-feature android:name="android.hardware.location.gps" android:required="false" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <permission android:name="com.andromo.dev576782.app537736.permission.C2D_MESSAGE" android:protectionLevel="signature|signatureOrSystem" />
+    <uses-permission android:name="com.andromo.dev576782.app537736.permission.C2D_MESSAGE" />
+</manifest>

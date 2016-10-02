@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:id="0x7f0a00a4" android:background="0x7f0200f8" android:layout_width="-1" android:layout_height="-2">
+    <ImageView android:id="0x7f0a00b8" android:background="0x7f0200f9" android:layout_width="-1" android:layout_height="1px" android:layout_alignParentTop="true" />
+    <com.andromo.dev576782.app537736.ScrollingTextView android:textSize="12sp" android:textStyle="1" android:textColor="#ffbebebe" android:ellipsize="4" android:id="0x7f0a001a" android:paddingLeft="14dp" android:paddingTop="1dp" android:paddingRight="8dp" android:paddingBottom="2dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0800e8" android:maxLines="1" android:minLines="1" android:singleLine="true" />
+    <RelativeLayout android:gravity="11" android:orientation="0" android:paddingTop="0dp" android:paddingBottom="0dp" android:layout_width="-1" android:layout_height="50dp" android:layout_margin="0dp">
+        <LinearLayout android:orientation="1" android:id="0x7f0a0014" android:paddingLeft="8dp" android:paddingRight="4dp" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" android:layout_centerVertical="true">
+            <ImageView android:layout_gravity="31" android:id="0x7f0a0013" android:paddingTop="2dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200c4" />
+            <TextView android:textSize="14sp" android:textStyle="1" android:textColor="#fff" android:layout_gravity="51" android:id="0x7f0a0018" android:layout_width="-2" android:layout_height="-2" android:text="0:00" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2" android:layout_centerHorizontal="true">
+            <ImageButton android:id="0x7f0a0011" android:background="0x7f0200f7" android:layout_width="70dp" android:layout_height="50dp" android:src="0x7f0200cb" android:layout_toLeftOf="0x7f0a000e" style="@*style/MediaButton.Previous" />
+            <ImageButton android:id="0x7f0a000e" android:background="0x7f0200f7" android:layout_width="70dp" android:layout_height="50dp" android:src="0x7f0200ca" android:layout_centerHorizontal="true" style="@*style/MediaButton.Play" />
+            <ImageButton android:id="0x7f0a0010" android:background="0x7f0200f7" android:visibility="2" android:layout_width="70dp" android:layout_height="50dp" android:src="0x7f0200c9" android:layout_centerHorizontal="true" style="@*style/MediaButton.Pause" />
+            <ImageButton android:id="0x7f0a0012" android:background="0x7f0200f7" android:layout_width="70dp" android:layout_height="50dp" android:src="0x7f0200c8" android:layout_toRightOf="0x7f0a000e" style="@*style/MediaButton.Next" />
+        </LinearLayout>
+        <LinearLayout android:orientation="1" android:id="0x7f0a0016" android:paddingLeft="4dp" android:paddingRight="8dp" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:layout_centerVertical="true">
+            <ImageView android:layout_gravity="31" android:id="0x7f0a0015" android:paddingTop="2dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200c2" />
+            <TextView android:textSize="14sp" android:textStyle="1" android:textColor="#fff" android:layout_gravity="51" android:id="0x7f0a0019" android:layout_width="-2" android:layout_height="-2" android:text="0:00" />
+        </LinearLayout>
+    </RelativeLayout>
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+        <SeekBar android:id="0x7f0a0017" android:paddingTop="8dp" android:paddingBottom="8dp" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginRight="5dp" android:maxHeight="20dp" android:minHeight="20dp" android:layout_weight="1.0" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" style="?unknown_attr_ref: 1010078" />
+    </LinearLayout>
+    <ImageView android:id="0x7f0a00b9" android:background="0x7f0200f9" android:layout_width="-1" android:layout_height="1px" android:layout_alignParentBottom="true" />
+</LinearLayout>

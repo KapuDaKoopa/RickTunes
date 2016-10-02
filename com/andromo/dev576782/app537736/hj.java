@@ -1,0 +1,19 @@
+package com.andromo.dev576782.app537736;
+
+public enum hj {
+    LOADING,
+    FRESH,
+    STALE,
+    NOT_FOUND,
+    EXPANDING,
+    EXPANDED,
+    SAVING,
+    SAVED,
+    CANCELLED_LOADING,
+    CANCELLED_EXPANDING,
+    CANCELLED_SAVING,
+    ERROR_LOADING,
+    ERROR_EXPANDING,
+    ERROR_SAVING,
+    UNKNOWN
+}
